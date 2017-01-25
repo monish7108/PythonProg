@@ -1,0 +1,26 @@
+
+Enter the ip address: 255.255.255.255
+valid
+====================================================================
+
+Enter email address: ajndjkan2348-934893sfjn@snfndnf-23894783.co.in
+valid
+====================================================================
+
+
+Phone number should be in the formate XXX[citycode]-XXX-XXXX
+Enter Phone Number: 123-234-3456
+valid
+====================================================================
+
+Enter Only Numbers: 23764765782378572835782675757157
+valid
+====================================================================
+
+Enter Only characters
+Note:spaces are allowed: jsfjsbf sjfbjhsfbs hfbshbfhs sfdhbhsdbf sfwgruweui AAUGYGWIF UGFUIWBFBW bdhbGUGU
+valid
+====================================================================
+
+Enter only special Characters(&, -, (, ),): (((((((--)&&)
+valid
